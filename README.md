@@ -1,8 +1,10 @@
 # 🙋🏻‍♂️ Marek Žáčik
 
-**`Full-Stack Developer`**
+**`Full-Stack Developer`** **`Frontend Developer`** **`Backend Developer`** **`Mobile Developer`**
 
 Welcome to my GitHub profile! I'm Marek, a dedicated full-stack developer with a passion for technology and continuous learning. My journey includes the creation of "Fearless Racer," a personal mobile game project, reflecting my enthusiasm for both development and gaming. Check it out on my website!
+
+I am also creating online programming courses for Skillmea.sk
 
 <p align="center">
    <a href="https://maradlo.sk"><strong>Visit My Website</strong></a>
